@@ -2,7 +2,7 @@ was
 
 ===
 
-Its a new verb: "Was it"
+Its a new verb - "Was it"
 
 
 Description:
